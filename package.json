@@ -1,0 +1,26 @@
+{
+  "name": "tdd-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel-jest": "^26.1.0",
+    "jest-cli": "^26.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll",
+    "dev": "jest --coverage --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinmaysah/my-ut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chinmaysah/my-ut/issues"
+  },
+  "homepage": "https://github.com/chinmaysah/my-ut#readme"
+}
